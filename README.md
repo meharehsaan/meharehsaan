@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Muhammad Ehsaan</h1>
-<h3 align="center">A Information technology Student and Enthusiast interested in Web 3.0 and Metaverse, Cyber Security and Web development.</h3>
+<h3 align="center">A Information technology Student and Enthusiast interested in Operating Systems, Cyber Security and Web development.</h3>
 
-- 🌱 I’m currently learning **Typescript and Next.js**
+- 🌱 I’m currently learning **Computer Organization & Assembly Language**
 
 - ⚡ Fun fact **Keep it Simple, genius**
 
