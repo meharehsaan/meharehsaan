@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **Linux, OS**
 
-- 📫 How to reach me **<ehsmehar@gmail.com>**
+- 📫 How to reach me <a href="mailto:ehsmehar@gmail.com">**<ehsmehar@gmail.com>**</a>
 
 - ⚡ Fun fact **Figure out why - before what**
 
@@ -45,6 +45,7 @@
 - Cyber Security
 - Operating System
 - Web Development
+
 
 <table>
   <tr>
