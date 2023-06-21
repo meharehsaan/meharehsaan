@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, there</h1>
 
-<h3 align="center">Breaking barriers, cracking codes; An Information Technology student exploring the mysterious global village of virtual security.</h3>
+<h3 align="center">Breaking barriers, cracking codes; In the world of digital shadows, becoming the guardian of light, where hearts beat in binary and security is their code.</h3>
 
 - 🌱 I’m currently learning **Operating System**
 
