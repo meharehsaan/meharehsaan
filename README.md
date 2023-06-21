@@ -46,13 +46,14 @@
   <tr>
     <!-- <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=meharehsaan&theme=gruvbox"/></td> -->
     <td><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com/?user=meharehsaan&theme=gruvbox&hide_border=true&border_radius=32&date_format=j%20M%5B%20Y%5D&ring=888888"/></a></td>
-    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=meharehsaan&theme=gruvbox"/></td>
+    <!-- <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=meharehsaan&theme=gruvbox"/></td> -->
+    <td><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=meharehsaan&theme=gruvbox&hide_border=true&show_icons=true&locale=en&layout=compact" alt="meharehsaan" /></td>
   </tr>
 </table>
 
 <!-- <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=meharehsaan&theme=gruvbox" alt="meharehsaan" /></p>
+-->
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=meharehsaan&theme=gruvbox&show_icons=true&locale=en&layout=compact" alt="meharehsaan" /></p> -->
 
 <h3 align="left"> Interests </h3>
 
