@@ -4,7 +4,7 @@
 
 <h3 align="center">Breaking barriers, cracking codes; In the world of digital shadows, becoming the guardian of light, where hearts beat in binary and security is their code.</h3>
 
-- 🌱 I’m currently learning **Operating System**
+- 🌱 I’m currently in **mystic depths of self-discover**
 
 - 💬 Ask me about **Linux, OS**
 
