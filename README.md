@@ -37,6 +37,15 @@
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 </p>
 
+<h3 align="left"> Interests </h3>
+
+---
+
+- Networking
+- Cyber Security
+- Operating System
+- Web Development
+
 <table>
   <tr>
     <!-- <th>Stats</th> -->
@@ -54,12 +63,4 @@
 <!-- <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=meharehsaan&theme=gruvbox" alt="meharehsaan" /></p>
 -->
 
-
-<h3 align="left"> Interests </h3>
-
----
-
-- Networking
-- Cyber Security
-- Operating System
-- Web Development
+<p align=center><b>Feel free to ask any query related to the topics I have explained in my repositories.</b></p>
