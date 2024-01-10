@@ -10,7 +10,7 @@
 
 - 📫 How to reach me <a href="mailto:ehsmehar@gmail.com">**<ehsmehar@gmail.com>**</a>
 
-- ⚡ Fun fact **Figure out why - before what**
+- ⚡ Fun fact **Some Infinities are bigger than other infinities**
 
 <!-- <h3 align="left">Connect with me </h3>
 
@@ -42,10 +42,8 @@
 ---
 
 - Networking
-- Cyber Security
-- Operating System
+- Detective fiction
 - Web Development
-
 
 <table>
   <tr>
