@@ -8,18 +8,10 @@
 
 - 💬 Ask me about **Linux, OS**
 
-- 📫 How to reach me <a href="mailto:ehsmehar@gmail.com">**<ehsmehar@gmail.com>**</a>
+- 📫 How to reach me <a href="mailto:ehsmehar@proton.me">**<ehsmehar@proton.me>**</a>
 
 - ⚡ Fun fact **Some Infinities are bigger than other infinities**
 
-<!-- <h3 align="left">Connect with me </h3>
-
----
-
-<p align="left">
-<a href="https://twitter.com/ehsmehar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="meharehsaan02" height="30" width="40" /></a>
-<a href="https://pk.linkedin.com/in/meharehsaan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://pk.linkedin.com/in/meharehsaan" height="30" width="40" /></a>
-</p> -->
 
 <h3 align="left">ToolBox </h3>
 
